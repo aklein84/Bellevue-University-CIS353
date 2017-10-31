@@ -1,0 +1,6 @@
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Bellevue-University-CIS353\Week 2\Assignment_2_Klein\Assignment_2_Klein\bin\Debug\Assignment_2_Klein.exe.config
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Bellevue-University-CIS353\Week 2\Assignment_2_Klein\Assignment_2_Klein\bin\Debug\Assignment_2_Klein.exe
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Bellevue-University-CIS353\Week 2\Assignment_2_Klein\Assignment_2_Klein\bin\Debug\Assignment_2_Klein.pdb
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Bellevue-University-CIS353\Week 2\Assignment_2_Klein\Assignment_2_Klein\obj\Debug\Assignment_2_Klein.csprojResolveAssemblyReference.cache
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Bellevue-University-CIS353\Week 2\Assignment_2_Klein\Assignment_2_Klein\obj\Debug\Assignment_2_Klein.exe
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Bellevue-University-CIS353\Week 2\Assignment_2_Klein\Assignment_2_Klein\obj\Debug\Assignment_2_Klein.pdb
