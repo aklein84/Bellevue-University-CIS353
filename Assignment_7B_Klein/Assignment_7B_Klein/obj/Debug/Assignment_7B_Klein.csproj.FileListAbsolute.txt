@@ -1,0 +1,9 @@
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Week 7\Assignment_7B_Klein\Assignment_7B_Klein\bin\Debug\Assignment_7B_Klein.exe.config
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Week 7\Assignment_7B_Klein\Assignment_7B_Klein\bin\Debug\Assignment_7B_Klein.exe
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Week 7\Assignment_7B_Klein\Assignment_7B_Klein\bin\Debug\Assignment_7B_Klein.pdb
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Week 7\Assignment_7B_Klein\Assignment_7B_Klein\obj\Debug\Assignment_7B_Klein.csprojResolveAssemblyReference.cache
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Week 7\Assignment_7B_Klein\Assignment_7B_Klein\obj\Debug\Assignment_7B_Klein.Form1.resources
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Week 7\Assignment_7B_Klein\Assignment_7B_Klein\obj\Debug\Assignment_7B_Klein.Properties.Resources.resources
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Week 7\Assignment_7B_Klein\Assignment_7B_Klein\obj\Debug\Assignment_7B_Klein.csproj.GenerateResource.Cache
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Week 7\Assignment_7B_Klein\Assignment_7B_Klein\obj\Debug\Assignment_7B_Klein.exe
+C:\Users\aklein\Dropbox\School\Spring Term\C#\CIS353\Assignments\Week 7\Assignment_7B_Klein\Assignment_7B_Klein\obj\Debug\Assignment_7B_Klein.pdb
