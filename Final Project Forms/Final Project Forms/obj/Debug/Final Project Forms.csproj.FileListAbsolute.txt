@@ -1,0 +1,18 @@
+c:\users\iceberg\documents\visual studio 2017\Projects\Final Project Forms\Final Project Forms\bin\Debug\Final Project Forms.exe.config
+c:\users\iceberg\documents\visual studio 2017\Projects\Final Project Forms\Final Project Forms\bin\Debug\Final Project Forms.exe
+c:\users\iceberg\documents\visual studio 2017\Projects\Final Project Forms\Final Project Forms\bin\Debug\Final Project Forms.pdb
+c:\users\iceberg\documents\visual studio 2017\Projects\Final Project Forms\Final Project Forms\obj\Debug\Final Project Forms.csprojResolveAssemblyReference.cache
+c:\users\iceberg\documents\visual studio 2017\Projects\Final Project Forms\Final Project Forms\obj\Debug\Final_Project_Forms.Form1.resources
+c:\users\iceberg\documents\visual studio 2017\Projects\Final Project Forms\Final Project Forms\obj\Debug\Final_Project_Forms.Properties.Resources.resources
+c:\users\iceberg\documents\visual studio 2017\Projects\Final Project Forms\Final Project Forms\obj\Debug\Final Project Forms.csproj.GenerateResource.Cache
+c:\users\iceberg\documents\visual studio 2017\Projects\Final Project Forms\Final Project Forms\obj\Debug\Final Project Forms.exe
+c:\users\iceberg\documents\visual studio 2017\Projects\Final Project Forms\Final Project Forms\obj\Debug\Final Project Forms.pdb
+C:\temp\Final Project Forms\Final Project Forms\bin\Debug\Final Project Forms.exe.config
+C:\temp\Final Project Forms\Final Project Forms\bin\Debug\Final Project Forms.exe
+C:\temp\Final Project Forms\Final Project Forms\bin\Debug\Final Project Forms.pdb
+C:\temp\Final Project Forms\Final Project Forms\obj\Debug\Final Project Forms.csprojResolveAssemblyReference.cache
+C:\temp\Final Project Forms\Final Project Forms\obj\Debug\Final_Project_Forms.Form1.resources
+C:\temp\Final Project Forms\Final Project Forms\obj\Debug\Final_Project_Forms.Properties.Resources.resources
+C:\temp\Final Project Forms\Final Project Forms\obj\Debug\Final Project Forms.csproj.GenerateResource.Cache
+C:\temp\Final Project Forms\Final Project Forms\obj\Debug\Final Project Forms.exe
+C:\temp\Final Project Forms\Final Project Forms\obj\Debug\Final Project Forms.pdb
